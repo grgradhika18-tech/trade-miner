@@ -1,0 +1,9 @@
+neo4j
+groq
+yfinance
+pycountry
+rapidfuzz
+newspaper3k
+requests
+lxml_html_clean
+feedparser
